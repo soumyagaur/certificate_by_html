@@ -1,0 +1,113 @@
+body {
+    padding: 20px 0;
+    background-color: #606365;
+    }
+    .pm-certificate-container {
+    position: relative;
+    width: 955px;
+    height: 600px;
+    background-color: #ffffff;
+    padding: 30px;
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+    }
+    .border-top {
+    width: 702px;
+    position: absolute;
+    left: 54%;
+    margin-left: -397px;
+    top: 51%;
+    margin-top: -282px;
+    border-top: 2px solid #5d5d5d;
+    }
+    .crdotuper {
+    margin-left: 67%;
+    margin-top: -4%;
+    width: 102px;
+    }
+    .aeroleft {
+    height: 65px;
+    width: 102px;
+    margin-left: -4%;
+    height: 40px;
+    width: 85px;
+    }
+    .border-bottom {
+    width: 709px;
+    position: absolute;
+    left: 55%;
+    margin-left: -397px;
+    bottom: 4%;
+    border-top: 2px solid #5d5d5d;
+    }
+    .dotleft{
+    margin-left: -4%;
+    margin-top: -10%;
+    width: 101px;
+    }
+    .aeroright{
+    height: 40px;
+    margin-top: -2%;
+    width: 85px;
+    margin-left: 74%;
+    }
+    .logo{
+    height: 87px;
+    margin-top: 1%;
+    margin-left: 33%;
+    }
+    .ISSN{
+    font-family: math;
+    }
+    .heading{
+    font-family: initial;
+    color: #13c713;
+    font-size: 23px;
+    margin-top: -6px;
+    }
+    .public {
+    margin-top: 2px;
+    }
+    .Publication{
+    border: 1px solid #066d06;
+    padding: 6px;
+    color: #212671;
+    background: #ecf2f7;
+    font-family: auto;
+    font-style: italic;
+    font-size: 45px;
+    }
+    .Authored {
+    background: #dedfe173;
+    width: 955px;
+    margin-left: -15px;
+    height: 63px;
+    }
+    .info{
+    font-size: 11px;
+    padding-top: 12px;
+    }
+    .CNO{
+    padding-top: 16px;
+    }
+    .author{
+    padding-top: 16px;
+    }
+    .name{
+    font-family: emoji;
+    font-size: 20px;
+    }
+    .auth{
+    font-family: emoji;
+    padding-top: 7px;
+    }
+    .diamond_shape {
+    margin-bottom: -84px;
+    margin-left: 47px;
+    padding-bottom: 31px;
+    }
+    .square_shape {
+    float: inline-end;
+    height: 25px;
+    }
